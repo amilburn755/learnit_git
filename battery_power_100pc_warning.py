@@ -17,3 +17,5 @@ while battery.percent > 0:
 
     time.sleep(1)
     battery = psutil.sensors_battery()
+
+# testing config control
